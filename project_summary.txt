@@ -1,0 +1,7 @@
+This project analyzes sales performance data using SQL, Excel, and Power BI concepts.
+
+Objectives:
+- Analyze regional sales
+- Compare product performance
+- Identify revenue trends
+- Generate business insights
